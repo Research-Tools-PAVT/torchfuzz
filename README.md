@@ -1,4 +1,4 @@
-# TensorFuzz: Coverage Guided Fuzzing for Neural Networks
+# TorchFuzz: Coverage Guided Fuzzing for Neural Networks (TensorFuzz -- PyTorch)
 
 This repository contains a library for performing coverage guided fuzzing of neural networks,
 as was described in [this paper](https://arxiv.org/abs/1807.10875).
